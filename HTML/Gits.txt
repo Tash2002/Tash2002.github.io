@@ -1,0 +1,34 @@
+VIRTUAL WEIGHBRIDGE SMS REPORT FOR 29/11/2023:						
+AHERO:  	T-	14560	Y-	557	Z-	89
+						
+E.RAVINE: 	T-	2373	Y-	28	Z-	8
+						
+ELDORET:  	T-	11141	Y-	375	Z-	6
+						
+EMALI: 		T-	1871	Y-	27	Z-	3
+						
+KAJIADO: 	T-	5246	Y-	212	Z-	2
+						
+KALOLENI	T-	410	Y-	21	Z-	16
+						
+MADOGO		T-	194	T-	1	Z-	0
+						
+MAKUTANO:  	T-	8326	Y-	68	Z-	3
+						
+MALABA		T-	4611	Y-	386	Z-	86
+						
+MALINDI		T-	7644	Y-	22	Z-	1
+						
+MAYONI		T-	6137	Y-	7	Z-	0
+						
+MUKUMU:    	T-	9634	Y-	6	Z-	0
+						
+MWATATE		T-	2107	Y-	59	Z-	38
+						
+SALGAA:  	T-	2940	Y-	9	Z-	3
+						
+SB-KIKUYU: 	T-	14899	Y-	938	Z-	4
+
+SB-MBSA:	T-	13613	Y-	312	Z-	14
+
+T'-Total Traffic. 'Y'-GVW Overload>0<5000. 'Z'-Total Tagged						
