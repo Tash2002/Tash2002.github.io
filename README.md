@@ -1,3 +1,3 @@
 # tash2002.github.io
-The Website for Web Design For Everyone.
-All are Welcome.
+Coding
+Testing
